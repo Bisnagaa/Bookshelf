@@ -2,7 +2,7 @@
 ## Descrição do app
 Este aplicativo vai cadastrar livros
 ## Entidades do sistema
-- livro
+- Livro
 título
 data de leitura
 opinião
